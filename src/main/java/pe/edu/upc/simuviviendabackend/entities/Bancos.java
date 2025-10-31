@@ -21,7 +21,7 @@ public class Bancos {
     @Column(name = "nombre_banco",nullable = false)
     private String nombre_banco;
 
-    @Column(name = "moneda",nullable = false)
+    @Column(name = "moneda", nullable = false)
     private String moneda;
 
 
